@@ -1,0 +1,17 @@
+commit d05f127e2cae12ae308cbc22a7c478d161e9c82b
+Author: ManuelCanoFig <-c>
+Date:   Wed May 29 15:26:25 2019 -0500
+
+    Products, cateogory, profile model, migration and controllers created
+
+commit 24506715fa55d85057da5923e3fb4edba4c65dfa
+Author: RoxasZoldyck <Richard_Mirra2@outlook.com>
+Date:   Mon May 27 17:48:48 2019 -0500
+
+    Views <a> richard was here
+
+commit cd83af5adaf21e11dd3dc3a74b0e5fc607513b83
+Author: ManuelCanoFig <-c>
+Date:   Mon May 27 16:22:35 2019 -0500
+
+    Laravel project created
